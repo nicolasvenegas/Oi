@@ -199,16 +199,6 @@
         <mxCell id="ruHqc4geiHLoJ0B3QaW_-112" value="GEODÉSICA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fraunces;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFraunces;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="367" y="685" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ruHqc4geiHLoJ0B3QaW_-113" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="347" y="569" as="sourcePoint" />
-            <mxPoint x="397" y="519" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="397" y="569" />
-              <mxPoint x="347" y="519" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ruHqc4geiHLoJ0B3QaW_-56" value="Archivístic." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#FFFFFF;fillColor=#000000;fontColor=#FFFFFF;fontFamily=Fraunces;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFraunces;" vertex="1" parent="1">
           <mxGeometry x="142" y="495.05890168290523" width="80" height="81.89105403011514" as="geometry" />
         </mxCell>
